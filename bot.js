@@ -256,7 +256,7 @@ takeinput=function(){
   }
 
   else{
-    msgcount+=1;
+    msgcount+=1; 
     console.log(msgcount);
     producemsg(document.getElementById('input').value)
     

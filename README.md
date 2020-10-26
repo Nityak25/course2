@@ -7,7 +7,7 @@
 ## REPL Link :
 https://ml2021-week-2-project-1.badarinarayana.repl.co/  
 ## YouTube Video link which describes the functioning of our Web Page and our Bot :
-....  
+https://youtu.be/uUMUV0wfTCw
 
 ## Main MOTO of our project
 Usually students of vishnu college are facing difficulty to remember urls related college like url to check attandence , te check results , to visit vedi platform . So here we created a web page from which students got the different websites of our college. And we created a BOT for students to get recorded session links of Vedic courses . User can vist our bot by pressing a button called VEDIC BOT which is available in our web page. 

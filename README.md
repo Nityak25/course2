@@ -1,4 +1,4 @@
-# Week2 Vedic ChatBot with HTML, CSS, Javascript
+# Week2 : Vedic ChatBot with HTML, CSS, Javascript
 
 ## Team members:
 1.N.Badari Narayana - 18pa1a04a3<br/>

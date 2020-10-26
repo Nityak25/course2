@@ -54,4 +54,7 @@ Each card is havving a button to redirect the user to his/her request
 * The message given by the user will send to the takeinput() function
 * the takeinput() function will process the given input and gives the answer for the users request
 
-
+## Pic of our Web Page
+![screencapture-ml2021-week-2-project-1-badarinarayana-repl-co-Bot-html-2020-10-26-23_59_37](https://user-images.githubusercontent.com/72606000/97213506-b36bc200-17e7-11eb-99db-dc49a235e6c8.png)  
+# Pic of our BOT
+![screencapture-ml2021-week-2-project-1-badarinarayana-repl-co-2020-10-26-23_58_38](https://user-images.githubusercontent.com/72606000/97213522-b6ff4900-17e7-11eb-9ec1-fd98690a5f2b.png)

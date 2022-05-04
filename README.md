@@ -4,8 +4,7 @@
 1.N.Badari Narayana - 18pa1a04a3<br/>
 2.K.Nitya Sujana - 18pa1a1225<br/>
 3.P.Karthik - 19pa1a05d4
-## REPL Link :
-https://ml2021-week-2-project-1.badarinarayana.repl.co/  
+
 ## YouTube Video link which describes the functioning of our Web Page and our Bot :
 https://youtu.be/uUMUV0wfTCw
 
